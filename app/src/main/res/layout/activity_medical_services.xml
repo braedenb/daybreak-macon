@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:theme="@style/TextColor"
+    tools:context=".MedicalServices"
+    android:background="@color/DayBreakBackgroundColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/DayBreakBackgroundColor">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Medical_Services1"
+            android:textColor="#080101"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="18dp" />
+
+      <!-- Prescription Services -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Prescription_Services"
+            android:textColor="#080101"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loaves_fishes_name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loaves_fishes_prescription_info"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loaves_fishes_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pparx"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+      <!-- ***********  Medical Services ************** -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Medical_Services2"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_bibb_health_dept_name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_bibb_health_dept_phone_address"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_med_serv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_phone_address"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/firstChoice"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/andersonHealth_med_serv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/andersonHealth_phone"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lensCrafters"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hopeCenter_med_serv"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hopeCenter_phone"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rightFromStart"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/goggles"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crisesLine"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+      <!-- ***********  Counseling ************** -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Counseling"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/familyCounseling"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mercerFamily"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hephzibah"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/babiesCannotWait"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lightHouse"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/riverEdge"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <!-- ***********  Dental Services ************** -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Dental_Services"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_bibb_health_dept_name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_bibb_health_dept_dental_info"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_bibb_health_dept_phone_address"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/oglethorpe_dental"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rehoboth"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_dental_info"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/macon_vol_clinic_phone_address"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+    </LinearLayout>
+
+</ScrollView>

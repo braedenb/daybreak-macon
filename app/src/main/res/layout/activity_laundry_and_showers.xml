@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:theme="@style/TextColor"
+    tools:context=".LaundryAndShowers"
+    android:background="@color/DayBreakBackgroundColor">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/DayBreakBackgroundColor">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/laundry_showers"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Laundry"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_name"/>
+        <TextView style = "@style/TextColor"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_laundry_info"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/salvation_army_name"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/salvation_army_laundry_info"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/salvation_army_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_name"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_hours_info"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Showers"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_name"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_showers_info"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/loaves_fishes_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_name"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_hours_info"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/Daybreak_contact_info"
+            android:autoLink="all"
+            android:textColorLink="@color/myTextColorLink"/>
+
+    </LinearLayout>
+
+</ScrollView>

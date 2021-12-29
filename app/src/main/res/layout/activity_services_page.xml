@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ServicesPage"
+    android:background="@color/DayBreakBackgroundColor">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/DayBreakBackgroundColor">
+
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="@string/medServ"
+            android:textStyle="bold"
+            android:onClick="onMedicalServicesBtnClick"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:textSize="17dp"
+            android:background="@color/ButtonColor" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="@string/mealServ"
+            android:textStyle="bold"
+            android:onClick="onFoodServicesBtnClick"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:textSize="17dp"
+            android:background="@color/ButtonColor" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="@string/clothServ"
+            android:textStyle="bold"
+            android:onClick="onClothingServicesBtnClick"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:textSize="17dp"
+            android:background="@color/ButtonColor" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:onClick="onLaundryAndShowersBtnClick"
+            android:text="@string/laundShwrServ"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:textSize="17dp"
+            android:background="@color/ButtonColor" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:onClick="onOtherServicesClick"
+            android:text="@string/otherServ"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:textSize="17dp"
+            android:background="@color/ButtonColor" />
+
+    </LinearLayout>
+
+</ScrollView>

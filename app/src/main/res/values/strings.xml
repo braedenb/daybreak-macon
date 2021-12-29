@@ -1,0 +1,506 @@
+<resources>
+    <string name="app_name">Daybreak Macon</string>
+
+    <string name="Depaul_logo">Depaul USA logo</string>
+    <string name="proj_depaul">A Project of Depaul USA</string>
+    <string name="enterStr">Enter</string>
+    <string name="aboutUs">About Us</string>
+
+    <string name="Daybreak_name">
+        \n<b>Daybreak</b> </string>
+    <string name="Daybreak_hours_info">
+        Monday 7:30 AM - 11 AM and 12 PM - 4 PM
+        \nTuesday 12:30 PM - 4 PM
+        \nWednesday-Friday 7:30 AM - 11 AM and 12 PM - 4 PM
+    </string>
+    <string name="Daybreak_meals_info">
+       Monday, Wednesday-Friday: Breakfast served at 7:30 AM</string>
+    <string name="Daybreak_contact_info">
+        Phone: (478) 216-9119
+        \nAddress: 174 Walnut St, Macon, GA 31201
+    </string>
+
+
+    <!-- About Us -->
+
+    <string name="daybreakQuote"><i>\n\"Everyone should have a place to call home and a stake in their
+                                     community.\"</i></string>
+
+    <string name="daybreakIntro">
+        \n\nProject Daybreak is a day center for the homeless - A place
+        where men and women who live homeless can escape the streets to a place that offers a warm
+        welcome and the services they need to move toward lives of stability and dignity.
+        \nServices offered include hygiene, education, employment, and healthcare.\n\n
+    </string>
+
+
+    <!-- Some Names and Addresses -->
+
+    <string name="Christ_Episcopal_name">\n<b>Christ Episcopal Church</b></string>
+    <string name="Christ_Episcopal_phone_address">
+       Phone: (478) 745-0427
+       \nAddress: 566 Walnut St, Macon, GA  31201
+    </string>
+    <string name="Christ_Episcopal_meals_info">
+       Saturday-Sunday 12 PM - 1 PM
+    </string>
+
+    <string name="family_advancement_name">\n<b>Family Advancement Ministries</b></string>
+    <string name="family_advancement_contact_info">
+        Phone: (478) 745-7165
+        \nAddress: 570 High Place st, Macon, GA 31201
+    </string>
+    <string name="family_advancement_clothing_info">
+       Children\'s clothing to age 6.
+       \nMaternity clothes.
+       \nCall for an appointment and leave name and number.
+    </string>
+
+
+    <string name="home_delivered_name">
+        \n<b>Home Delivered Meals</b></string>
+    <string name="home_delivered_contact_info">
+        Phone: (478) 751-6466 </string>
+    <string name="home_delivered_meals_info">
+        For homebound elderly.
+        \nCall Mid GA Area Agency on Aging to apply.
+    </string>
+
+
+    <string name="loaves_fishes_name">\n<b>Loaves and Fishes Ministries</b></string>
+    <string name="loaves_fishes_contact_info">
+        Phone: (478) 741-1007
+        \nAddress: 651 Martin Luther King Boulevard, Macon, GA 31201
+    </string>
+    <string name="loaves_fishes_meals_info"> Sack lunch on Tuesday: 12 PM - 1 PM</string>
+    <string name="loaves_fishes_laundry_info">
+        Monday-Friday 9 AM - 1:30 PM</string>
+    <string name="loaves_fishes_showers_info">Monday-Friday 8:30 AM - 2:30 PM <b>(First 8 people)</b>
+    </string>
+    <string name="loaves_fishes_clothing_info">
+        Available Monday, Tuesday, Thursday, and Friday.
+        \nAvailable every 30 days.
+    </string>
+
+
+    <string name="macon_bibb_health_dept_name">
+        \n<b>Macon-Bibb County Health Department</b> </string>
+    <string name="macon_bibb_health_dept_phone_address">
+        Phone: (478) 745-0411
+        \nAddress: 171 Emery Highway, Macon, GA 31217
+    </string>
+
+
+    <string name="macon_outreach_name">
+        \n<b>Macon Outreach at Mulberry</b></string>
+    <string name="macon_outreach_contact_info">
+        Phone: (478) 743-8026
+        \nAddress: 267 1st St, Macon, GA 31201
+    </string>
+    <string name="macon_outreach_clothing_info">
+       Must get a number before 9 AM.
+        \nAvailable every 90 days.
+        \nTuesday 9 AM - 12 PM
+    </string>
+    <string name="macon_outreach_meals_info">
+        Monday 11 AM - 12 PM
+        \nTuesday 7 AM - 8 AM
+        \nWednesday-Friday 11 AM - 12 PM
+    </string>
+
+
+    <string name="macon_vol_clinic_name">
+        \n<b>Macon Volunteer Clinic</b> </string>
+    <string name="macon_vol_clinic_phone_address">
+         Phone: (478) 755-1110
+        \nAddress: 376 Rogers Ave, Macon, GA 31204
+    </string>
+
+
+    <string name="rescue_mission_name">
+        \n<b>Rescue Mission of Middle Georgia</b></string>
+    <string name="rescue_mission_contact_info">
+        Phone: (478) 743-5445
+        \nAddress: 774 Hazel St, Macon, GA 31201
+    </string>
+    <string name="rescue_mission_clothing_info">
+        Fire victims with Red Cross forms and agency referrals.
+        \nAvailable every 90 days.</string>
+    <string name="rescue_mission_meals_info">
+       4 PM every day
+    </string>
+
+
+    <string name="salvation_army_name">
+        \n<b>Salvation Army</b></string>
+    <string name="salvation_army_contact_info">
+        Phone: (478) 746-8572
+        \nAddress: 1955 Broadway St, Macon, GA 31206
+    </string>
+    <string name="salvation_army_laundry_info">
+        Women clients only. </string>
+    <string name="salvation_army_clothing_info">
+        Clothing vouchers - Monday-Friday. First 5 to apply from 8 AM to 11:30 AM.
+        \nOne voucher each year.
+        \nExtension: 100
+    </string>
+
+
+    <!-- Services Page -->
+
+    <string name="medServ"><b>Medical \nServices</b></string>
+    <string name="mealServ"><b>Meal \nServices</b></string>
+    <string name="clothServ"><b>Clothing \nServices</b></string>
+    <string name="laundShwrServ"><b>Laundry and\nShowers</b></string>
+    <string name="otherServ"><b>Other \nServices</b></string>
+
+
+    <!-- Medical Services -->
+
+    <string name="Medical_Services1">\nMEDICAL SERVICES</string>
+
+    <string name="Prescription_Services">\nPrescription Services</string>
+
+    <string name="loaves_fishes_prescription_info">
+        Friday morning. First 8 clients.</string>
+
+    <string name="pparx">
+        \n<b>Partnership for Prescription Assistance</b>
+        \nCall for application.
+        \nPhone: 1-888-477-2669 
+        \nWebsite: http://www.pparx.org
+    </string>
+
+    <string name="Medical_Services2">\nMedical Services</string>
+
+    <string name="macon_vol_clinic_med_serv">
+        Uninsured workers call. </string>
+
+    <string name="firstChoice">
+        \n<b>First Choice Primary Care </b>
+        \nInsurance accepted.
+        \nNon-insured: fees based on income.
+        \nPhone: (478) 787-4266
+        \nAddress: 770 Walnut St, Macon, GA 31202
+    </string>
+
+    <string name="andersonHealth_med_serv">
+        \n<b>Anderson Health Clinic </b>
+        \nCall to speak to someone about eligibility.
+        \nChronic illnesses for prescription assistance.
+        \nCare Partners Program.
+    </string>
+    <string name="andersonHealth_phone">
+        Phone: (478) 633-7019
+    </string>
+
+    <string name="lensCrafters">
+        \n<b>Lenscrafters</b>
+        \nRefer from non-profits only to One Sight Foundation.
+        \nCall for exam and glasses.
+        \nPhone: (478) 745-1515
+    </string>
+
+    <string name="hopeCenter_med_serv">
+        \n<b>Hope Center</b>
+        Medical and pharmacy for HIV clients.
+        \nReferrals for dental and vision.
+    </string>
+    <string name="hopeCenter_phone">
+        Phone: (478) 405-7220
+    </string>
+
+    <string name="rightFromStart">
+        \n<b>Right from the Start</b>
+        \nMedicaid for pregnant women, children, and families.
+        \nPhone: 800-809-7276
+    </string>
+
+    <string name="goggles">
+        \n<b>Goggles</b>
+        \nDiscount for low income vision exam and glasses (kids, too).
+        \nPhone: (478) 803-0001
+        \nAddress: 635 Pio Nono Ave, Macon, GA 31204
+    </string>
+
+    <string name="crisesLine">
+        \n<b>Crisis Line and Safe House</b>
+        \nProvide rape crisis services.
+        \nPhone: (478) 745-9292
+    </string>
+
+    <string name="Counseling">\nCounseling Services\n</string>
+
+    <string name="familyCounseling"><b>Family Counseling Center</b>
+        \nIndividual, Family, Marriage, and Crisis Counseling.
+        \nFree or sliding scale.
+        \nPhone: (478) 745-2811
+        \nAddress: Suite 203,
+        \n277 Martin Luther King Boulevard, Macon, GA 31201
+        \nWebsite: http://www.fcccg.org
+    </string>
+
+    <string name="mercerFamily">
+        \n<b>Mercer Family Therapy Center</b>
+        \nSliding scale billing.
+        \nPhone: (478) 301-5970
+        \nAddress: 655 1st St, Macon, GA 31201
+    </string>
+
+    <string name="hephzibah">
+        \n<b>Hephzibah Behavioral Health Services </b>
+        \nEvaluations, counseling, crisis intervention, diagnostic assessment, and
+        substance abuse counseling.
+        \nMedicaid and sliding scale billing.
+        \nPhone: (478) 476-0805
+        \nAddress: 6601 Zebulon Road, Macon, GA 31220
+    </string>
+
+    <string name="babiesCannotWait">
+        \n<b>Babies Cannot Wait </b>
+        \nDevelopmental evaluations and services.
+        \nPhone: (478) 745-9200
+        \nAddress: 201 2nd St Macon, GA 31201
+    </string>
+
+    <string name="lightHouse">
+        \n<b>Lighthouse For Families </b>
+        \nA service of Methodist Children\'s Home.
+        \nIndividual, family, marriage, and crisis counseling with Medicaid.
+        \nFee-based 10-week parenting class program.
+        \nVisitation Program.
+        \nPhone: (478) 464-3001
+        \nAddress: 116 Pierce Ave Macon, GA 31204
+    </string>
+
+    <string name="riverEdge">
+        \n<b>River Edge Behavioral Health Center </b>
+        \nPhone: (478) 803-7600
+        \nAddress: 175 Emery Highway, Macon, GA 31217
+    </string>
+
+
+    <string name="Dental_Services">\nDental Services</string>
+
+    <string name="macon_bibb_health_dept_dental_info">
+        Children through age 18. </string>
+
+    <string name="oglethorpe_dental">
+        \n<b>Oglethorpe Dental Clinic</b>
+        \nFees.
+        \nPhone: (478)743-5856
+        \nAddress: 1248 Oglethorpe St, Macon, GA 31201
+    </string>
+
+    <string name="rehoboth">
+        \n<b>Rehoboth</b>
+        \nServing Houston, Peach, Taylor, and Crawford Counties.
+        \nPhone: (478) 953-7770
+        \nAddress: 3208 US Highway 41 N, Warner Robins, GA 31008
+        \nWebsite: http://www.careforlifeclinic.com
+    </string>
+
+    <string name="macon_vol_clinic_dental_info">
+        Ask for Jennifer at Ext 128. </string>
+
+    <!-- Laundry and Showers -->
+
+    <string name="laundry_showers">\n<b>LAUNDRY AND SHOWERS</b></string>
+    <string name="Laundry">\nLAUNDRY</string>
+    <string name="Showers">\nSHOWERS</string>
+
+    <!-- Food Services -->
+
+    <string name="MEALS">\n<b>MEAL SERVICES</b></string>
+
+    <!-- Clothing Services -->
+
+    <string name="CLOTHING">\n<b>CLOTHING SERVICES</b></string>
+
+    <!-- Other Services -->
+
+    <string name="Other_Services1">OTHER SERVICES\n</string>
+
+    <string name="free_wifi">Free WiFi</string>
+
+    <string name="adrianas_name">\n<b>"Adriana's"</b></string>
+    <string name="adrianas_hours">
+        Monday-Friday		11 AM - 3:30 PM
+    </string>
+    <string name="adrianas_contact">
+        Phone: (478) 742-2255
+        \nAddress: 359 3rd St, Macon, Georgia 31201
+    </string>
+    <string name="adrianas_info">You can sit across the street in the benches.</string>
+
+    <string name="mcds_name">\n<b>"McDonald's"</b></string>
+
+    <string name="mcds_navicent_contact">
+        Address: Navicent Hospital, 777 Hemlock Street, Macon, GA 31201
+    </string>
+
+    <string name="mcds_pine_hours">
+        4 AM - 3 AM every day
+    </string>
+    <string name="mcds_pine_contact">
+        Phone: (478) 746-9907
+        \nAddress: 770 Pine St, Macon, GA 31201
+    </string>
+
+    <string name="mcds_pio_hours">
+        Open 24 hours every day
+    </string>
+    <string name="mcds_pio_contact">
+        Phone: (478) 788-1150
+        \nAddress: 2497 Pio Nono Ave, Macon, GA 31206
+    </string>
+
+    <string name="mcds_gray_hours">
+        4 AM - 12 AM every day
+    </string>
+    <string name="mcds_gray_contact">
+        Phone: (478) 745-6324
+        \nAddress: 550 Gray Highway, Macon, GA 31201
+    </string>
+
+    <string name="mcds_rocky_hours">
+        Open 24 hours every day
+    </string>
+    <string name="mcds_rocky_contact">
+        Phone: (478) 788-4233
+        \nAddress: 1450 Rocky Creek Rd, Macon, GA 31206
+    </string>
+
+    <string name="mcds_harrison_hours">
+        Open 24 hours every day
+    </string>
+    <string name="mcds_harrison_contact">
+        Phone: (478) 474-2396
+        \nAddress: 5020 Harrison Rd, Macon, GA 31206
+    </string>
+
+    <string name="mcds_riverside_hours">
+        Monday-Friday		5:30 AM – 11 PM
+        \nSaturday-Sunday	5:30 AM – 12 AM
+    </string>
+    <string name="mcds_riverside_contact">
+        Phone: (478) 477-5580
+        \nAddress: 3660 Riverside Drive, Macon, GA 31210
+    </string>
+
+    <string name="krystal_name">\n<b>Krystal</b></string>
+    <string name="krystal_hours">
+        Open 24 hours every day
+    </string>
+    <string name="krystal_contact">
+        Phone: (478) 745-5958
+        \nAddress: 892 Riverside Drive, Macon, GA 31201
+    </string>
+
+    <string name="bk_name">\n<b>Burger King</b></string>
+    <string name="bk_hours">
+        Monday-Thursday	    5:30 AM – 12 AM
+        \nFriday-Saturday   5:30 AM – 1 AM
+        \nSunday            7 AM – 12 AM
+    </string>
+    <string name="bk_contact">
+        Phone: (478) 745-5019
+        \nAddress: 1188 Gray Highway, Macon, GA 31211
+    </string>
+
+    <string name="bird_name">\n<b>Hummingbird</b></string>
+    <string name="bird_hours">
+        Monday–Saturday     4 PM – 2 AM
+        \nSunday            6 PM – 12 AM
+    </string>
+    <string name="bird_contact">
+        Phone: (478) 741-9130
+        \nAddress: 430 Cherry Street, Macon, GA 31201
+    </string>
+    <string name="bird_info">
+        You can sit on a nearby bench.
+    </string>
+
+    <string name="lamar_name">\n<b>The Lamar</b></string>
+    <string name="lamar_contact">
+        Phone: (478) 257-7979
+        \nAddress: 562 Cherry St, Macon, GA 31201
+    </string>
+    <string name="lamar_info">
+        You can sit on a nearby bench.
+    </string>
+
+    <string name="rosa_name">\n<b>Rosa Parks Square</b></string>
+    <string name="rosa_contact">
+        Address: Poplar and 1st Street
+    </string>
+
+    <string name="washington_name">\n<b>Washington Public Library</b></string>
+    <string name="washington_hours">
+        Monday-Thursday     9 AM - 9 PM
+        \nFriday-Saturday     9 AM - 6 PM
+    </string>
+    <string name="washington_contact">
+        Phone: (478) 744-0800
+        \nAddress: 1180 Washington Avenue, Macon, GA 31201
+    </string>
+
+    <string name="daybreak_name">\n<b>Daybreak</b></string>
+    <string name="daybreak_hours">
+        Monday, Wednesday-Friday        7:30 AM - 4 PM
+        \nTuesday                         12:30 AM - 4 PM
+    </string>
+    <string name="daybreak_contact">
+        Phone: (478) 216-9119
+        \nAddress: 174 Walnut St, Macon GA 31201
+    </string>
+
+    <string name="tb_name">\n<b>Taco Bell</b></string>
+    <string name="tb_hours">
+        7 AM - 2 AM every day
+    </string>
+    <string name="tb_contact">
+        Phone: (478) 743-5015
+        \nAddress: 945 Gray Highway, Macon, GA 31211
+    </string>
+
+    <string name="jitjoes_name">\n<b>"Jittery Joe's"</b></string>
+    <string name="jitjoes_hours">
+        Monday-Friday	7 AM - 6 PM
+        \nSaturday	    8 AM - 6 PM
+        \nSunday		10 AM - 4 PM
+    </string>
+    <string name="jitjoes_contact">
+        Phone: (478) 621-5400
+        \nAddress: 1635 Montpelier Ave, Macon, GA 31201
+    </string>
+
+    <string name="star_name">\n<b>Starbucks</b></string>
+
+    <string name="star_forsyth_hours">
+        Monday-Friday	5:30 AM - 11 PM
+        \nSaturday	    6 AM - 11 PM
+        \nSunday		7 AM - 10 PM
+    </string>
+    <string name="star_forsyth_contact">
+        Phone: (478) 477-5651
+        \nAddress: 4640 Forsyth Rd, Macon, GA 31210
+    </string>
+
+    <string name="star_rivergate_hours">
+        Monday-Thursday	        5:30 AM - 10 PM
+        \nFriday-Saturday		5:30 AM - 10:30 PM
+        \nSunday			    6 AM - 9 PM
+    </string>
+    <string name="star_rivergate_contact">
+        Phone: (478) 475-0287
+        \nAddress: Rivergate Shopping Center, 121 Tom Hill Sr Blvd, Macon, GA 31210
+    </string>
+
+    <string name="public_outlets">\nPublic Electric Outlets</string>
+
+    <string name="third_street">
+        \n<b>Third Street Park</b>
+        \nBoth sides of the fountain
+    </string>
+</resources>
